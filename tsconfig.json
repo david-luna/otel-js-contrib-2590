@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "rootDir": ".",
+    "module": "commonjs",
+    "strict": true,
+    "target": "es2017"
+  },
+  "include": [
+    "src/**/*.ts",
+  ]
+}
