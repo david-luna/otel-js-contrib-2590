@@ -1,5 +1,5 @@
-import { setupTracing } from "./tracer";
-setupTracing('example-mysql-server');
+// import { setupTracing } from "./tracer";
+// setupTracing('example-mysql-server');
 import * as http from 'http';
 import * as mysql from 'mysql2';
 
